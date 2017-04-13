@@ -1,11 +1,11 @@
 # French translation for ukuu
 # This file is distributed under the same license as the ukuu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+# Yolateng0 <yolateng0ATyo.nohost.me>, 2017.
 #
-msgid ""
+msgid""
 msgstr ""
 "Project-Id-Version: ukuu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Report-Msgid-Bugs-To: github.com Ukuu\n"
 "POT-Creation-Date: 2017-04-13 \n"
 "PO-Revision-Date: 2017-04-13 \n"
 "Last-Translator: Yolateng0 <yo@yo.nohost.me>\n"
@@ -14,8 +14,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2017-04-13 11:48+0000\n"
-"X-Generator: Poedit 1.8.7.1\n"
-"Language: ru\n"
+"X-Generator: \n"
+"Language: fr\n"
 
 #: Gtk/MainWindow.vala:472
 msgid "About"
